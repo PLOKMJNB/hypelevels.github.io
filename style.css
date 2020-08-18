@@ -3,7 +3,7 @@ body {
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   background-size: cover;
+   background-size: coFFFFFF
  }
 
 .container {
@@ -20,3 +20,17 @@ body {
  .fadeIn{
     animation: fadein 1.5s;
  }
+
+ .btn-darkblue {
+    background-color: #e96755;
+    color: #FFFFFF;
+ }
+ 
+ .btn-darkblue:hover {
+   background-color: #FA5C46;
+   color: #FFFFFF;
+}
+
+.rounded-waylg {
+   border-radius: 16px;
+}
